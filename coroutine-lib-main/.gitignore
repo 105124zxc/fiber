@@ -1,0 +1,10 @@
+# 忽略所有 AppData
+AppData
+
+# 忽略所有临时文件
+.tmp
+.log
+
+# 忽略特定系统目录
+Local Settings
+Temp
